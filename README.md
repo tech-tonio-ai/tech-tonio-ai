@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>CCNA Network Labs</b>
+  - [CCNA: Simple Network Topologies Made Easy](https://github.com/tech-tonio-ai/os-ticket-prereqs)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tech-tonio-ai/os-ticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tech-tonio-ai/post-install-config)
