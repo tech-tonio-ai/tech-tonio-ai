@@ -5,7 +5,7 @@
 - <b>CCNA Network Labs</b>
   - [CCNA: Simple Network Topologies Made Easy](https://github.com/tech-tonio-ai/os-ticket-prereqs)
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure and Active Directory</b>
   - [Azure Setup](https://github.com/tech-tonio-ai/azure-seup/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tech-tonio-ai/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tech-tonio-ai/azure-network-protocols)
