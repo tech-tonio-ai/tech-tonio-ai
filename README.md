@@ -5,13 +5,15 @@
 - <b>CCNA Network Labs</b>
   - [CCNA: Simple Network Topologies Made Easy](https://github.com/tech-tonio-ai/os-ticket-prereqs)
 
+- <b>Microsoft Azure</b>
+  - [Azure Setup](https://github.com/tech-tonio-ai/azure-seup/tree/main)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tech-tonio-ai/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tech-tonio-ai/azure-network-protocols)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tech-tonio-ai/os-ticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tech-tonio-ai/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tech-tonio-ai/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tech-tonio-ai/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tech-tonio-ai/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
