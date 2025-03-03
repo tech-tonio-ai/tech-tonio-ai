@@ -8,6 +8,7 @@
 - <b>Microsoft Azure and Active Directory</b>
   - [Azure Setup](https://github.com/tech-tonio-ai/azure-seup/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tech-tonio-ai/configure-ad)
+  - [Active Directory: Admin and Users Management](https://github.com/tech-tonio-ai/active-directory-admin-and-user-mngmnt)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tech-tonio-ai/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
