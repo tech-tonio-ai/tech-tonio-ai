@@ -7,7 +7,7 @@
 
 - <b>Microsoft Azure and Active Directory</b>
   - [Azure Setup](https://github.com/tech-tonio-ai/azure-seup/tree/main)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tech-tonio-ai/configure-ad)
+  - [Deploying Active Directory in Azure: A Cloud-Based Implementation](https://github.com/tech-tonio-ai/configure-ad)
   - [Active Directory: Admin and Users Management](https://github.com/tech-tonio-ai/active-directory-admin-and-user-mngmnt)
   - [Active Directory: Account Lockouts and Access Management](https://github.com/tech-tonio-ai/account-lockouts-and-access)
  <!-- - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tech-tonio-ai/azure-network-protocols) -->
