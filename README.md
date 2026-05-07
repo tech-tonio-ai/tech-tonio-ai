@@ -16,6 +16,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/tech-tonio-ai/os-ticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tech-tonio-ai/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tech-tonio-ai/ticket-lifecycle)
+ 
+- <b>osTicket (Vulnerability Management)</b>
+  - [Vuln Management program](https://github.com/tech-tonio-ai/Vulnerability-Management-Program--Implementation)
 
 <h2>🤳Connect with me:</h2>
 
