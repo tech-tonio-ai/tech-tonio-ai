@@ -5,11 +5,10 @@
 
 - <b>Cyber Security(Vulnerability Management Projects)</b>
   - [Vuln Management program](https://github.com/tech-tonio-ai/Vulnerability-Management-Program--Implementation)
-  <!-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+  <!-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** --!>
  
 - ## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+   - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
 
 <hr/>
  
