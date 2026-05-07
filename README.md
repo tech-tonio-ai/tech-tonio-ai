@@ -1,5 +1,6 @@
 <h1>Hi, I'm Antonio, an <a href="https://www.linkedin.com/in/antonio-isaacs/">IT Professional</a>☺</h1>
 
+# CYBERSECURITY PROJECTS
 ## ⚠️ Vulnerability Management Projects
 
 
@@ -13,7 +14,7 @@
 
 <hr/>
  
-  - 
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <!-- - <b>CCNA Network Labs</b> 
