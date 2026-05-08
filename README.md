@@ -1,16 +1,18 @@
 <h1>Hi, I'm Antonio, an <a href="https://www.linkedin.com/in/antonio-isaacs/">IT Professional</a>☺</h1>
 
 # CYBERSECURITY PROJECTS
-## ⚠️ Vulnerability Management Projects
 
-
-- <b>Cyber Security(Vulnerability Management Projects)</b>
-  - [Vuln Management program](https://github.com/tech-tonio-ai/Vulnerability-Management-Program--Implementation)
-  <!-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** --!>
- 
 - ## 🚨 Threat Hunting and Security Operations
    - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tech-tonio-ai/Threat-Hunting-Scenario-Tor)
    - [Threat Hunting Scenario Password Spray to Full Compromise](https://github.com/tech-tonio-ai/Password-Spray-Threat-Hunt)
+   - [Threat Hunting Scenario: Helpdesk Deception](https://github.com/tech-tonio-ai/Threat-Hunt-The-Helpdesk-Deception)
+
+## ⚠️ Vulnerability Management Projects
+   - [Vuln Management program](https://github.com/tech-tonio-ai/Vulnerability-Management-Program--Implementation)
+    
+  <!-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** --!>
+ 
+
 
 <hr/>
  
