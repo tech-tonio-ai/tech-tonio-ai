@@ -2,7 +2,7 @@
 
 # CYBERSECURITY PROJECTS
 
-- ## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations
    - [Threat Hunting Scenario: Tor Browser Usage](https://github.com/tech-tonio-ai/Threat-Hunting-Scenario-Tor)
    - [Threat Hunting Scenario: Password Spray to Full Compromise](https://github.com/tech-tonio-ai/Password-Spray-Threat-Hunt)
    - [Threat Hunting Scenario: Helpdesk Deception](https://github.com/tech-tonio-ai/Threat-Hunt-The-Helpdesk-Deception)
