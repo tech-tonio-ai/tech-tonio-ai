@@ -6,6 +6,8 @@
    - [Threat Hunting Scenario: Tor Browser Usage](https://github.com/tech-tonio-ai/Threat-Hunting-Scenario-Tor)
    - [Threat Hunting Scenario: Password Spray to Full Compromise](https://github.com/tech-tonio-ai/Password-Spray-Threat-Hunt)
    - [Threat Hunting Scenario: Helpdesk Deception](https://github.com/tech-tonio-ai/Threat-Hunt-The-Helpdesk-Deception)
+   - [Threat Hunting Scenario: Helpdesk Deception](https://github.com/tech-tonio-ai/Threat-Hunt-SCATTERED-INVOICE)
+
 
 ## ⚠️ Vulnerability Management Projects
    - [Vuln Management program](https://github.com/tech-tonio-ai/Vulnerability-Management-Program--Implementation)
