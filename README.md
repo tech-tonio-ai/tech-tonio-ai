@@ -7,6 +7,7 @@
    - [Threat Hunting Scenario: Password Spray to Full Compromise](https://github.com/tech-tonio-ai/Password-Spray-Threat-Hunt)
    - [Threat Hunting Scenario: Helpdesk Deception](https://github.com/tech-tonio-ai/Threat-Hunt-The-Helpdesk-Deception)
    - [Threat Hunting Scenario: Scattered Invoice](https://github.com/tech-tonio-ai/Threat-Hunt-SCATTERED-INVOICE)
+   - [Threat Hunting ScenatioL Rocky Clinic](https://github.com/tech-tonio-ai/Threat-Hunt-Rocky-Clinic/blob/main/Rocky_clinic_threat_hunt_report.md)
 
 
 ## ⚠️ Vulnerability Management Projects
